@@ -1,0 +1,18 @@
+.button{
+    display: inline-block;
+    padding: 10px 20px;
+    border: 0;
+    color: white;
+    border-radius: 4px;
+}
+.success{
+    background-color: #4caf50;
+}
+
+.primary{
+    background-color: #083a81;
+    
+}
+.primary:hover{
+    background-color: #010f24;
+}
